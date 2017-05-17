@@ -33,7 +33,7 @@ render(<div className='reddish'>
 4. There are many more options depeneding your needs & preferences (performance, server-side rendering, what trends you prefer to follow, etc, each has it's own virtues and flaws...) https://github.com/MicheleBertoli/css-in-js
 
 
-###A deeper dive into Glamor
+### A deeper dive into Glamor
 Supports inline selectors, shorthand rest spread operator, adding labels to assist debugging, takes care of prefixing, eliminating identical duplicate classes (some additional libraries can also elimitate identical rules across multiple classes - thus further reducing duplication & file sizes)
 
   * server side / static side rendering
