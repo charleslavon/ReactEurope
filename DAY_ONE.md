@@ -1,5 +1,5 @@
 ## Roadmap for React
-@acdlite[http://twitter.com/acdlite] Andrew Clark -
+Andrew Clark [@acdlite](http://twitter.com/acdlit)
 ###### Synchronous scheduling blocks
 blocking js processes causing video jank, preventing video chunks from beings played smoothly
 
@@ -22,10 +22,10 @@ Write code a certain way such that it can be split into chunks and executed in a
 
 
 ## Benchmarking React
-Dominic Gannaway - creator of Inferno @trueadm[http://twitter.com/trueadm]
+Dominic Gannaway  [@trueadm](http://twitter.com/trueadm) creator of Inferno
 
 ## Building HighQuality JS tools - Jest (test runner)
-Christoph Pojer Engineering Mgr @ Facebook London - @copjer[http://twitter.com/copjer]
+Christoph Pojer [@copjer](http://twitter.com/copjer) Engineering Mgr @ Facebook London
 
   `yarn create react-app`
   `yarn create react-native-app`
@@ -47,7 +47,7 @@ codemodes with jest-codemods and codeshift
 
 
 ## La Nouvelle Vague - the new wave of frameworks (hint...they aren't really frameworks at all
-Sunil Pal @threepointone[http://twitter.com/threepointone]
+Sunil Pal [@threepointone](http://twitter.com/threepointone)
 
   We send too much code to the browsers
 
@@ -68,7 +68,7 @@ He proposes that
 
 
 ## The upside of JS Fatigue
-Kevin Lacker @lacker[http://twitter.com/lacker]
+Kevin Lacker [@lacker](http://twitter.com/lacker)
 tl;dr; JS fatigue is good, it leads to more contributors and better products
 
 Suggests that we read Richard P. Gabriel's - "Worse Is Better" Strategy
@@ -91,7 +91,7 @@ If you're sick of trying to keep up, don't like what's out there, or it doens't 
 
 ## What WebAssembly means for React
 
-Lin Clark @linclark[http://twitter.com/linclark] @codecartoons[http://twitter.com/codecartoons]
+Lin Clark [@linclark](http://twitter.com/linclark) [@codecartoons](http://twitter.com/codecartoons)
   checkout her talk at JSconf EU on what is WebAssembly
 
 "web assembly allows multple langues to run in the browser" This means we could have C/C++ in the browser that may run faster than JS. Right now it does not support DOM interaction.
@@ -99,10 +99,10 @@ Lin Clark @linclark[http://twitter.com/linclark] @codecartoons[http://twitter.co
 
 
 
-## How I learned ot Stop Worrying and Love the Typechecker
-Adam Perry - @dika10sune[http://twitter.com/dika10sune]
+## How I learned to Stop Worrying and Love the Typechecker
+Adam Perry - [@dika10sune](http://twitter.com/dika10sune)
 
-Checkout http://flow.org/try
+Checkout [flow/try](http://flow.org/try)
   * doesnt' product runtime code
   * focus on immersivenes, performance
   * aimed at typing idiomatic Javascript for some values of idomatic? -
@@ -124,8 +124,8 @@ Editor Integration - is sweet
 
 
 
-## Reason | Imperfection
-Cheng Lou - @_chenglou[http://twitter.com/_chenglou]
+## Reason & Imperfection
+Cheng Lou [@_chenglou](http://twitter.com/_chenglou)
   http://github.com/facebook/reason
   http://github.com/reasonml/reason-react
 
